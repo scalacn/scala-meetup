@@ -1,6 +1,6 @@
 # Scala Meetup
 
-## Scala Meetup @ Beijing #1
+## Scala Meetup @ Beijing #1（已经完结）
 
 时间：2016.01.17 周日 14:00 - 17:00
 
@@ -80,4 +80,4 @@ Scala Meetup @ <地点> #<id>
 
 ### 往期回顾
 
-- 2016-01-17 北京 #1 [回顾]（对应的markdown文件链接）
+- 2016-01-17 北京 #1 [回顾]（https://github.com/scalacn/scala-meetup/blob/master/Beijing/2016-01-17%231.md）
