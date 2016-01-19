@@ -80,4 +80,4 @@ Scala Meetup @ <地点> #<id>
 
 ### 往期回顾
 
-- 2016-01-17 北京 #1 [回顾]（https://github.com/scalacn/scala-meetup/blob/master/Beijing/2016-01-17%231.md）
+- 2016-01-17 北京 #1 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2016-01-17%231.md)
