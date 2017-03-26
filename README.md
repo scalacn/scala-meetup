@@ -1,5 +1,13 @@
 # Scala Meetup
 
+## Scala Meetup @ Beijing #2（已经完结）
+
+时间：2017.03.26 周日 14:00 - 17:00
+
+地点：北京市海淀区上地信息路 19 号商服中心三层香啡小镇咖啡厅
+
+百度地图：（http://j.map.baidu.com/OnM7r）
+
 ## Scala Meetup @ Beijing #1（已经完结）
 
 时间：2016.01.17 周日 14:00 - 17:00
@@ -7,7 +15,6 @@
 地点：北京市海淀区中关村善缘街 1 号立方庭大厦 1 楼科苑星空咖啡厅
 
 百度地图：（http://j.map.baidu.com/51mg8）
-
 
 ## 说明
 
@@ -80,4 +87,5 @@ Scala Meetup @ <地点> #<id>
 
 ### 往期回顾
 
-- 2016-01-17 北京 #1 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2016-01-17%231.md)
+- 2016-01-17 北京 #1 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2016-01-17/README.md)
+- 2017-03-26 北京 #2 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2017-03-26/README.md)

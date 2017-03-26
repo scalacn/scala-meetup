@@ -2,7 +2,7 @@
 
 ## 1. 介绍
 
-时间： 2017-03-26 14:00 ~ 17:00
+时间： 2017-03-26 周日 14:00 - 17:00
 
 本次 Meetup 参与者包括：
 - Hawstein
@@ -20,7 +20,7 @@
 
 ### 2.2《Some(scala) @ GrowingIO》 Hawstein
 
-Hawstein 在本次分享中介绍了 Scala 在 GrowingIO 的使用和推广，包括对线上服务架构的简介、Play框架的使用和测试、GrowingIO 基于 Akka Http 和 Akka Streaming 开发的核心服务 dpx service 介绍，以及最后对 Akka Actor 的入门介绍等。
+Hawstein 在本次分享中介绍了 Scala 在 GrowingIO 的使用和推广，包括对线上服务架构的简介、Play 框架的使用和测试、Akka Actor 的介绍、GrowingIO 基于 Akka Http 和 Akka Streams 开发的核心服务 dpx service 介绍等。
 
 在分享过程中，大家还讨论了 Play 与 Akka Http 的对比与选择，GrowingIO 与 OneAPM 各自为客户做产品的私有化部署时遇到的问题和解决思路等。
 
@@ -28,10 +28,10 @@ Hawstein 在本次分享中介绍了 Scala 在 GrowingIO 的使用和推广，�
 
 姜宁在分享中介绍了 linkerd 项目，该项目属于 [CNCF](https://www.cncf.io/)，是一个集服务发现、服务路由、容错等于一体的软件代理，主要服务于微服务架构。在分享中姜宁还详细介绍了 linkerd 的路由配置、client based service discovery VS. centralized service discovery 等。
 
-## Meetup 总结
+## 3. Meetup 总结
 
-本次 meetup 组织时由于缺乏经验，报名和前来的小伙伴很少；但是分享和讨论时，大家依然十分投入。本次讨论内容多集中于 Akka、Akka Http、Akka Streaming、 TDD & 测试、微服务等。
+本次 meetup 组织时由于缺乏经验，报名和前来的小伙伴很少；但是分享和讨论时，大家依然十分投入。本次讨论内容多集中于 Akka、Akka Http、Akka Streams、 TDD & 测试、微服务等。
 
-此外，大家还就 Scala 社区的情况进行了讨论，希望能有更多的小伙伴加入我们，大家也决定至少每个月举行一次 Meetup。Hawstein 也表示 GrowingIO 会以公司名义在4月份举行一次活动。
+此外，大家还就 Scala 社区的情况进行了讨论，希望能有更多的小伙伴加入我们，大家也决定至少每个月举行一次 Meetup。Hawstein 也表示 GrowingIO 后面可能会以公司名义举办一次活动。
 
-2017年 Scala 第一次 Meetup 结束，期待后续活动，谢谢大家！
+2017 年 Scala 第一次 Meetup 结束，期待后续活动，谢谢大家！
