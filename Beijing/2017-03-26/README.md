@@ -1,8 +1,14 @@
-# Scala Beijing Meetup
+# Scala Meetup @ Beijing #2
+
+时间：2017.03.26 周日 14:00 - 17:00
+
+地点：北京市海淀区上地信息路 19 号商服中心三层香啡小镇咖啡厅
+
+地图：（http://j.map.baidu.com/OnM7r）
+
+组织者：[@zhxiaogg](https://github.com/zhxiaogg)
 
 ## 1. 介绍
-
-时间： 2017-03-26 周日 14:00 - 17:00
 
 本次 Meetup 参与者包括：
 - Hawstein

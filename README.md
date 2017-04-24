@@ -1,5 +1,13 @@
 # Scala Meetup
 
+## Scala Meetup @ Beijing #3（已经完结）
+
+时间：2017.04.22 周六 13:30 - 18:00
+
+地点：北京市朝阳区望京国际商业中心 F 座 B 楼 2 层 B208 无界空间
+
+百度地图：（http://j.map.baidu.com/92hu9）
+
 ## Scala Meetup @ Beijing #2（已经完结）
 
 时间：2017.03.26 周日 14:00 - 17:00

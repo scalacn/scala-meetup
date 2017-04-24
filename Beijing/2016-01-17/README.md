@@ -1,12 +1,12 @@
-# Scala Meetup @ 北京 #1 回顾
+# Scala Meetup @ Beijing #1
 
-|地区|时间|期数|讨论|
-|---|---|----|---|
-|北京|2016-01-17 14:00 - 18:00|#1|[Reference](https://github.com/scalacn/scala-meetup/issues/1)|
+时间：2016.01.17 周日 14:00 - 17:00
 
 地点：北京市海淀区中关村善缘街 1 号立方庭大厦 1 楼科苑星空咖啡厅
 
-组织者：[@Hawstein](https://github.com/Hawstein) from 豌豆荚
+地图：（http://j.map.baidu.com/51mg8）
+
+组织者：[@Hawstein](https://github.com/Hawstein)
 
 参与者：[@Hawstein](https://github.com/Hawstein)，[@hepin1989](https://github.com/hepin1989)，待完善
 
@@ -15,7 +15,7 @@
 -----
 ## 引子
 
-[@Hawstein](https://github.com/Hawstein) 在毕业后加入了豌豆荚，豌豆荚是一家技术氛围非常浓厚和开放的公司，工作后他兴趣转向了 Scala（如下），此后他又建立了 [ScalaChina](http://scalachina.org/) 社区，以推动 Scala 在中国社区的传播和发展，期间也得到了 @dcaoyuan 以及 @hongjiang 的鼓励和支持。再到后来他又建立了ScalaChina QQ 群，以进一步的方便交流。再一次和群友的聊天过程中，其提出可能组织一次线下的交流活动是更好的交流形式的构想，这也是了本次 Meetup 的最初的萌芽。后来他制作了一个[宣传页面](待补充)，并有幸由 @xring 小范围扩散，后来继而被扩散到 `jvm研究群` 也便有了 [ONEAPM]() 的各位实力干将的加入，使得本次 Meetup 人数从几人扩展到了十几人，其将其 CTO 还不辞辛劳，亲临现场对本次圆桌会议表示关切。
+[@Hawstein](https://github.com/Hawstein) 在毕业后加入了豌豆荚，豌豆荚是一家技术氛围非常浓厚和开放的公司，工作后他兴趣转向了 Scala（如下），此后他又建立了 [ScalaChina](http://scalachina.org/) 社区，以推动 Scala 在中国社区的传播和发展，期间也得到了 @dcaoyuan 以及 @hongjiang 的鼓励和支持。再到后来他又建立了 ScalaChina QQ 群，以进一步的方便交流。再一次和群友的聊天过程中，其提出可能组织一次线下的交流活动是更好的交流形式的构想，这也是了本次 Meetup 的最初的萌芽。后来他制作了一个[宣传页面](待补充)，并有幸由 @xring 小范围扩散，后来继而被扩散到 `jvm研究群` 也便有了 [ONEAPM]() 的各位实力干将的加入，使得本次 Meetup 人数从几人扩展到了十几人，其将其 CTO 还不辞辛劳，亲临现场对本次圆桌会议表示关切。
 
 本次活动由 [@Hawstein](https://github.com/Hawstein) 的校友所开的 [科苑星空咖啡厅](待添加) 提供场地，他们为这次 Meetup 在二楼专门提供了一个会议室，[@Hawstein](https://github.com/Hawstein) 早早的赶到并布置了现场。大家基本都在预计的时间点到达了预定的地点。
 
