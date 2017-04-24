@@ -13,7 +13,7 @@
 
 本次 Scala Meetup 由 GrowingIO 赞助，在联合办公场所「无界空间」举办。共有以下 4 个 talk：
 
-* [Real World Akka Stream]()，罗辑 @ 知乎
-* [Akka TDD 实践]()，张健 @ OneAPM
-* [Writing DSL in Scala]()，艾彦波 @ GrowingIO
-* [Akka Cluster 深入浅出]()，山行 @ 阿里巴巴菜鸟网络
+* [Real World Akka Stream](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2017-04-22/slides/Real%20World%20Akka%20Stream.pdf)，罗辑 @ 知乎
+* [Akka TDD 实践](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2017-04-22/slides/Akka%20TDD%20%E5%AE%9E%E8%B7%B5.pdf)，张健 @ OneAPM
+* [Writing DSL in Scala](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2017-04-22/slides/Writing%20DSL%20in%20Scala.pdf)，艾彦波 @ GrowingIO
+* [Akka Cluster 深入浅出](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2017-04-22/slides/Akka%20Cluster%20%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA.pdf)，山行 @ 阿里巴巴菜鸟网络
