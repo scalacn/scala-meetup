@@ -13,7 +13,7 @@
 - 2017-04-22 北京 #3 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2017-04-22/README.md)
 - 2017-03-26 北京 #2 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2017-03-26/README.md)
 - 2016-01-17 北京 #1 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2016-01-17/README.md)
-
+- 2019-03-09 北京 #1 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2019-03-09/README.md)
 
 ## Shanghai
 
