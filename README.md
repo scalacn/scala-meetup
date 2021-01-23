@@ -7,6 +7,8 @@
 > 后面举办 Scala Meetup，请参照 Beijing 文件夹下的组织方式进行记录、归档以及上传相关 Slides。
 
 
+## virtual
+- 2021-01-16 线上 #2 [回顾](https://github.com/scalacn/scala-meetup/tree/master/2021/01-16)
 
 ## Beijing
 
