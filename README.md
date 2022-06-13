@@ -8,3 +8,8 @@
 | 2017-04-22 | 北京 | [回顾](2017-04-22)                  |
 | 2017-03-26 | 北京 | [回顾](2017-03-26)                  |
 | 2016-01-17 | 北京 | [回顾](2016-01-17)                  |
+| 2014-05-31 | 上海 | [回顾](2014-05-31)                  |
+|            |      | Scala集合库详解 by 杨云             |
+|            |      | Play中的Iteratee及其应用 by 章烨明   |
+|            |      | Lego: Let's build everything by Scala by @zhongl |
+|            |      | Scala on Android by Max Lv         |
