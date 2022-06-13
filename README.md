@@ -10,7 +10,7 @@
 | 2017-03-26 | 北京 | [回顾](2017-03-26)                     |       |
 | 2016-01-17 | 北京 | [回顾](2016-01-17)                     |       |
 | 2015-12-26 | 杭州 | [回顾](2015-12-26)                     |       |
-| | | Effective Akka: Akka practice in building a real time streaming engine Gearpump | 钟翔 |
+| | | Akka practice in building a real time streaming engine Gearpump | 钟翔 |
 |            |      | JDK8新特性与生产                        | 昆谷  |
 |            |      | Scala与Storm下流式计算                  | 何首乌@挖财 |
 |            |      | Scala使用体验                          | 时金魁    |
