@@ -1,31 +1,10 @@
-# Scala Meetup
-
-下期预告：
-
-下期 Scala Meetup 会在上海举办，大家一起期待！
-
-> 后面举办 Scala Meetup，请参照 Beijing 文件夹下的组织方式进行记录、归档以及上传相关 Slides。
-
-
-## virtual
-- 2021-01-16 线上 #2 [回顾](https://github.com/scalacn/scala-meetup/tree/master/2021/01-16)
-
-## Beijing
-
-- 2017-04-22 北京 #3 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2017-04-22/README.md)
-- 2017-03-26 北京 #2 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2017-03-26/README.md)
-- 2016-01-17 北京 #1 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2016-01-17/README.md)
-- 2019-03-09 北京 #1 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Beijing/2019-03-09/README.md)
-
-## Shanghai
-
-Coming soon.
-
-## Hangzhou
-
-Coming soon.
-
-## Shenzhen
-
-- 2018-03-17 深圳 #1 [回顾](https://github.com/scalacn/scala-meetup/blob/master/Shenzhen/2018-03-17/README.md)
-
+# Scala Meetup in China
+|   时间     | 地点 |                                     |
+|------------|------|-------------------------------------|
+| 2021-06-26 | 线上 | [回顾](2021-06-26)                  |
+| 2021-01-16 | 线上 | [回顾](2021-01-16)                  |
+| 2019-03-11 | 北京 | [回顾](2019-03-11)                  |
+| 2018-03-17 | 深圳 | [回顾](2018-03-17)                  |
+| 2017-04-22 | 北京 | [回顾](2017-04-22)                  |
+| 2017-03-26 | 北京 | [回顾](2017-03-26)                  |
+| 2016-01-17 | 北京 | [回顾](2016-01-17)                  |
