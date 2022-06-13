@@ -7,7 +7,14 @@
 | 2019-03-11 | 北京 | [回顾](2019-03-11)                     |       |
 | 2018-03-17 | 深圳 | [回顾](2018-03-17)                     |       |
 | 2017-04-22 | 北京 | [回顾](2017-04-22)                     |       |
+|            |      | Real World Akka Stream               | 罗辑@知乎 |
+|            |      | Akka TDD 实践                         | 张健   |
+|            |      | Writing DSL in Scala                 | 艾彦波 |
+|            |      | Akka Cluster深入浅出                  | 山行@菜鸟 |
 | 2017-03-26 | 北京 | [回顾](2017-03-26)                     |       |
+|            |      | Akka Streaming 实战                    | 陈友国 |
+|            |      | Some(scala) @ GrowingIO               | Hawstein | 
+|            |      | linkerd 介绍                           | 姜宁  |
 | 2016-01-17 | 北京 | [回顾](2016-01-17)                     |       |
 | 2015-12-26 | 杭州 | [回顾](2015-12-26)                     |       |
 | | | Akka practice in building a real time streaming engine Gearpump | 钟翔 |
