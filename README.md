@@ -9,6 +9,22 @@
 | | | AST Manipulation and Pattern Matching in Scala | 沈达 |
 |            |      | ZIO 入门分享                           | 明扬  |
 | 2019-03-11 | 北京 | [回顾](2019-03-11)                     |       |
+| 2018-09-02 | 深圳 | [回顾](https://github.com/sz-scala-meetup/scala-meetup-180902) | |
+|            |      | Monadic Return Types                  | 雪川大虫 |
+|            |      | 一种简单可靠的基于Akka的分布式缓存系统设计和实现 | 张伟文 |
+|            |      | 泛型派生技术内幕 - Circe实践            | 水山清风 |
+| 2018-06-30 | 深圳 | [回顾](https://github.com/sz-scala-meetup/scala-meetup-180630) | |
+|            |      | Clojure开发中一些有意思的实践           | 陈建业 |
+|            |      | shapeless 介绍                         | 周敦雄  |
+|            |      | 基于Slick的GraphQL服务                 | 庄名洲 |
+|            |      | 简单介绍JVM的垃圾算法                   | a1178615156 | 
+|            |      | (Slick)函数对象映射的一些有趣例子        | 水山清风 |
+|            |      | walk-in: shapeless, type induction, binding.scala | 杨博 |
+| 2018-05-27 | 深圳 | [回顾](https://github.com/sz-scala-meetup/scala-meetup-180527) | |
+|            |      | Scala：从零到一支技术广告团队           | 张伟文 |
+|            |      | 即兴多态及高阶类型参数多态              | 雪川大虫 |
+|            |      | 编程中的陷阱及升级解决方案 Monic.Task   | 雪川大虫 |
+|            |      | 集群环境下系统集成编程模式              | 雪川大虫 |
 | 2018-03-17 | 深圳 | [回顾](2018-03-17)                     |       |
 | 2017-04-22 | 北京 | [回顾](2017-04-22)                     |       |
 |            |      | Real World Akka Stream               | 罗辑@知乎 |
@@ -19,6 +35,8 @@
 |            |      | Akka Streaming 实战                    | 陈友国 |
 |            |      | Some(scala) @ GrowingIO               | Hawstein | 
 |            |      | linkerd 介绍                           | 姜宁  |
+| 2016-05-28 | 深圳 |                                        |       |
+|            |      | scalaz 介绍 [幻灯片](https://github.com/sz-scala-meetup/scala-meetup-160528/blob/master/scalaz-introduction-shenzhen.pdf) | Tiger Chan|     
 | 2016-01-17 | 北京 | [回顾](2016-01-17)                     |       |
 | 2015-12-26 | 杭州 | [回顾](2015-12-26)                     |       |
 | | | Akka practice in building a real time streaming engine Gearpump | 钟翔 |
