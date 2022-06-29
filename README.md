@@ -7,9 +7,9 @@
 | [B站](https://www.bilibili.com/video/BV1XS4y1H7PT)       |      | 计算的本质：一个野生程序员的胡说八道     | 高宇翔 |
 | [B站](https://www.bilibili.com/video/BV16Z4y1i7ew)       |      | 反应式流在大规模场景下的实战             | 何品  |
 | 2021-06-26 | 线上 | [回顾](2021-06-26)                     |       |
-|            |      | 融合 Play：Scala 的多范式在 playframework 中的实践应用 | Neo Lin |
-|            |      | Scala 菜鸟逆袭之路                     | 屈国栋 |
-|            |      | 关于 Scala 学习和就业中若干问题的讨论    | 张伟文 |
+| [B站](https://www.bilibili.com/video/BV1L5411T73y)           |      | 融合 Play：Scala 的多范式在 playframework 中的实践应用 | Neo Lin |
+| [B站](https://www.bilibili.com/video/BV1p5411T7q8)           |      | Scala 菜鸟逆袭之路                     | 屈国栋 |
+| [B站](https://www.bilibili.com/video/BV1XV411s79g)           |      | 关于 Scala 学习和就业中若干问题的讨论    | 张伟文 |
 | 2021-01-16 | 线上 | [回顾](2021-01-16)                     |       |
 |            |      | Akka: manage your state just right    | Evan  |
 |            |      | 代数组合子与文本解析                    | 刘鑫  |
