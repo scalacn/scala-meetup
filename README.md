@@ -2,6 +2,10 @@
 
 |   时间      | 地点 |                                       | 主讲人 |
 |------------|------|---------------------------------------|--------|
+| 2023-01-14 | 线上 | [回顾](2023-01-14)                     |        |
+| [B站](https://www.bilibili.com/video/BV1h14y1M7uD/) | | Tubi的gRPC演进之路 | 张正来 |
+| [B站](https://www.bilibili.com/video/BV1Ls4y1t7uF/) | | Scala与函数式编程 | 袁洋 |
+| [B站](https://www.bilibili.com/video/BV1od4y1L7K3/) | | 交互式笔记本中的Scala | 李枫 |
 | 2022-06-25 | 线上 | [回顾](2022-06-25)                     |        |
 | [B站](https://www.bilibili.com/video/BV1bf4y1f7sU)    |      | Tubi内容推荐系统之架构与实践            | 邓骏骏 |
 | [B站](https://www.bilibili.com/video/BV1XS4y1H7PT)       |      | 计算的本质：一个野生程序员的胡说八道     | 高宇翔 |
