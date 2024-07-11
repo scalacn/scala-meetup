@@ -2,6 +2,10 @@
 
 |   时间      | 地点 |                                       | 主讲人 |
 |------------|------|---------------------------------------|--------|
+| 2023-11-25 | 北京 | 回顾](暂无PPT)                     |        |
+| [B站](https://b23.tv/0OzU0sc) |      | 为什么每个Java开发者都需要了解Scala    | Chunsen  |
+| [B站](https://b23.tv/Q0VkGVS) |      | “无模式” GraphQL开发    | jxnu-liguobin  |
+| [B站](https://b23.tv/Ls37mWm) |      | Java并发编程的终极方案    | 亢伟楠  |
 | 2023-01-14 | 线上 | [回顾](2023-01-14)                     |        |
 | [B站](https://www.bilibili.com/video/BV1h14y1M7uD/) | | Tubi的gRPC演进之路 | 张正来 |
 | [B站](https://www.bilibili.com/video/BV1Ls4y1t7uF/) | | Scala与函数式编程 | 袁洋 |
