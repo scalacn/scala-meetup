@@ -23,7 +23,7 @@
 |            |      | 代数组合子与文本解析                    | 刘鑫  |
 | | | AST Manipulation and Pattern Matching in Scala | 沈达 |
 |            |      | ZIO 入门分享                           | 明扬  |
-| 2019-12-21 | 深圳 | [回顾]([2019-03-11](https://www.zhihu.com/people/Martinawd/posts))                     |       |
+| 2019-12-21 | 深圳 | [回顾-第六届Scala 深圳见面会（2019.12.21）](https://zhuanlan.zhihu.com/p/93591236)                     |  凤凰木, 羊八井, 刘涛, Martin awodey     |
 | 2019-03-11 | 北京 | [回顾](2019-03-11)                     |       |
 | 2018-09-02 | 深圳 | [回顾](https://github.com/sz-scala-meetup/scala-meetup-180902) | |
 |            |      | Monadic Return Types                  | 雪川大虫 |
