@@ -23,7 +23,11 @@
 |            |      | 代数组合子与文本解析                    | 刘鑫  |
 | | | AST Manipulation and Pattern Matching in Scala | 沈达 |
 |            |      | ZIO 入门分享                           | 明扬  |
-| 2019-12-21 | 深圳 | [回顾-第六届Scala 深圳见面会（2019.12.21）](https://zhuanlan.zhihu.com/p/93591236)                     |  凤凰木, 羊八井, 刘涛, Martin awodey     |
+| 2019-12-21 | 深圳 | [回顾-第13届Scala 深圳见面会（2019.12.21）](https://zhuanlan.zhihu.com/p/93591236)                     |  凤凰木, 羊八井, 刘涛, Martin awodey     |
+|            |      | 如何用Scala构建数据和通用服务——Scala生态系统和工程实践小结 | 凤凰木 |
+|            |      | Akka HTTP、gRPC与Typed Actor工程实践 | 羊八井 |
+|            |      | Scala 的一些实践: Scala、Akka与Slick | 刘涛 |
+|            |      | Scalajs 与前端反应式编程 | Martin awodey |
 | 2019-03-11 | 北京 | [回顾](2019-03-11)                     |       |
 | 2018-09-02 | 深圳 | [回顾](https://github.com/sz-scala-meetup/scala-meetup-180902) | |
 |            |      | Monadic Return Types                  | 雪川大虫 |
