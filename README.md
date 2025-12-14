@@ -2,6 +2,11 @@
 
 |   时间      | 地点 |                                       | 主讲人 |
 |------------|------|---------------------------------------|--------|
+| 2025-12-13 | 深圳 | [Scala reload 2025:AI，芯片与DSL(第19届)](http://scala.ecofunctor.com/docs/202512_ai_dsl/) | |
+|            |      | Pytorch On Scala3 深度学习实战 &大模型应用实战 | 海宁 （muller） |
+|            |      | ScaIR: MLIR inspired Scala Compiler Framework | Maksymilian |
+|            |      | 基于Scala的开源vscode ai 插件 | 杜宇（Eason） |
+|            |      | DependentChisel: 基于Scala3依赖类型的芯片设计语言 | 杜宇（Eason） |
 | 2023-11-25 | 北京 | 回顾(暂无PPT)                     |        |
 | [B站](https://b23.tv/0OzU0sc) |      | 为什么每个Java开发者都需要了解Scala    | Chunsen  |
 | [B站](https://b23.tv/Q0VkGVS) |      | “无模式” GraphQL开发    | jxnu-liguobin  |
